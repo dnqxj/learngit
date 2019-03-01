@@ -11,3 +11,4 @@ $wei_info = [];
 
 # git merge dev 合并
 # git branch -d dev 分支命令,删除
+# remote push hell
