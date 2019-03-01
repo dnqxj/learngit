@@ -6,3 +6,5 @@ $redis->set("key1", "value1");
 $redis->get("key1");
 $redis->close();
 
+$wei_bo = new Weibo();
+$wei_info = [];
